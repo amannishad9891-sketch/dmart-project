@@ -64,4 +64,3 @@ DMart's real data. The three datasets are linked by the store name.
 All three datasets share the store name (Mumbai, Pune, Hyderabad, Bengaluru, Ahmedabad),
 with store_id as the matching key. inventory and feedback are never joined to store_daily
 by date. inventory has no date column, and feedback dates are not matched to daily revenue.
-
